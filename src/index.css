@@ -403,9 +403,11 @@ margin-right: 30px;
 }
 .big_block {
   width: 78vw;
+  margin-left: 1px;
 }
 .small_bock {
   min-width: 40vw;
+  margin: 4.5px;
 }
 .mini_long {
   width: 86.5vw;
@@ -450,7 +452,7 @@ margin-right: 30px;
   width: 19%;
   top: 33%;
   z-index: 2;
-  left: 18vw;
+  left: 16.5vw;
   border: 1px solid rgba(245, 245, 245, 0.27);
   box-shadow: 0 0 10px rgba(245, 245, 245, 0.116);
   border-radius: 50%;
@@ -463,7 +465,7 @@ margin-right: 30px;
   right: 24vw;
   justify-content: center;
   align-items: center;
-  top: 70%;
+  top: 75%;
   height: 80px;
   width: 200px;
   border-radius: 10px;
